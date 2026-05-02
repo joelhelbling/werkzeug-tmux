@@ -1,6 +1,6 @@
 ---
 tasks:
 - operation: link
-  source: ./.tmux.conf
+  source: ./tmux.conf
   target: ~/.tmux.conf
   preserve_original: true
